@@ -1,2 +1,2 @@
 # Komorebi
-Personal web browser for Android🌿
+Komorebi is a Waterfox fork for Android I made using Claude. 
